@@ -1,1 +1,1 @@
-# admin-mini-panel
+# Example Mini Admin Panel
